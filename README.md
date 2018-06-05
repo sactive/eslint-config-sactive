@@ -1,3 +1,3 @@
 # eslint-config-sactive
 
-Javascript code standards for SActive.
+ SActive's ESLint config, based on Standard.
