@@ -1,0 +1,37 @@
+{
+  "name": "@sactive/eslint-config-sactive",
+  "version": "1.0.0",
+  "description": "SActive's ESLint config, based on Standard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sactive/eslint-config-sactive.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "pooky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sactive/eslint-config-sactive/issues"
+  },
+  "homepage": "https://github.com/sactive/eslint-config-sactive#readme",
+  "peerDependencies": {
+    "eslint-config-standard": "*"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  }
+}
