@@ -3,6 +3,8 @@
 SActive's ESLint config, based on Standard.
 
 ![build status](https://travis-ci.org/sactive/eslint-config-sactive.svg?branch=master)
+
+
 [![NPM](https://nodei.co/npm/eslint-config-sactive.png?downloads=true)](https://nodei.co/npm/eslint-config-sactive/)
 
 ## Usage
