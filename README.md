@@ -2,6 +2,7 @@
 
 SActive's ESLint config, based on Standard.
 
+[![NPM](https://nodei.co/npm/eslint-config-sactive.png?downloads=true)](https://nodei.co/npm/eslint-config-sactive/)
 
 ## Usage
 

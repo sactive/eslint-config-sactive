@@ -1,5 +1,5 @@
 {
-  "name": "@sactive/eslint-config-sactive",
+  "name": "eslint-config-sactive",
   "version": "1.0.0",
   "description": "SActive's ESLint config, based on Standard.",
   "main": "index.js",
