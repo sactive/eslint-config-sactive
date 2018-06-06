@@ -12,7 +12,7 @@ module.exports = {
     eqeqeq: 2,
     "eol-last": 0,
     quotes: ["error", "double", { "allowTemplateLiterals": true }],
-    "indent": ["error", 2],
+    "space-unary-ops": ["error", {"words": true, "nonwords": true}],
     "no-return-assign": 0,
     "no-var": 2,
     semi: [2, "always"],

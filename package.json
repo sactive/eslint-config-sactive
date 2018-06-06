@@ -4,7 +4,7 @@
   "description": "SActive's ESLint config, based on Standard.",
   "main": "index.js",
   "scripts": {
-    "test": "eslint . --fix"
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
