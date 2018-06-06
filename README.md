@@ -10,10 +10,23 @@ SActive's ESLint config, based on Standard.
 ## Usage
 
 ```bash
-npm install --save-dev eslint-config-sactive eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev \
+eslint \
+eslint-config-sactive \
+eslint-config-standard \
+eslint-plugin-standard \
+eslint-plugin-promise \
+slint-plugin-import \
+eslint-plugin-node
 
 #or
-yarn add eslint-config-sactive eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+yarn add eslint \
+eslint-config-sactive \
+eslint-config-standard \
+eslint-plugin-standard \
+eslint-plugin-promise \
+eslint-plugin-import \
+eslint-plugin-node --dev
 ```
 
 Add this to your `.eslintrc` file:
