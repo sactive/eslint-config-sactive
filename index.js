@@ -36,6 +36,5 @@ module.exports = {
       'asyncArrow': 'ignore'
     }],
     'new-cap': ['error', { 'newIsCap': false }]
-
   }
 };
