@@ -38,8 +38,6 @@ Add this to your `.eslintrc` file:
 }
 ```
 
-![npm](https://img.shields.io/npm/v/eslint-config-sactive.svg)
-
 [npm-image]: https://img.shields.io/npm/v/eslint-config-sactive.svg
 [npm-url]: https://www.npmjs.com/package/eslint-config-sactive
 [travis-image]: https://travis-ci.org/sactive/eslint-config-sactive.svg?branch=master
