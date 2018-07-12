@@ -35,6 +35,9 @@ module.exports = {
       'named': 'never',
       'asyncArrow': 'ignore'
     }],
-    'new-cap': ['error', { 'newIsCap': false }]
+    'new-cap': ['error', {
+      'newIsCap': false,
+      'properties': false
+    }]
   }
 };
