@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sactive/eslint-config-sactive.git"
+    "url": "git+https://github.com/shipengqi/eslint-config-sactive.git"
   },
   "keywords": [
     "eslint",
@@ -17,9 +17,9 @@
   "author": "pooky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sactive/eslint-config-sactive/issues"
+    "url": "https://github.com/shipengqi/eslint-config-sactive/issues"
   },
-  "homepage": "https://github.com/sactive/eslint-config-sactive#readme",
+  "homepage": "https://github.com/shipengqi/eslint-config-sactive#readme",
   "peerDependencies": {
     "eslint-config-standard": "*"
   },

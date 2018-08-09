@@ -40,7 +40,7 @@ Add this to your `.eslintrc` file:
 
 [npm-image]: https://img.shields.io/npm/v/eslint-config-sactive.svg
 [npm-url]: https://www.npmjs.com/package/eslint-config-sactive
-[travis-image]: https://travis-ci.org/sactive/eslint-config-sactive.svg?branch=master
-[travis-url]: https://www.travis-ci.org/sactive/eslint-config-sactive
+[travis-image]: https://travis-ci.org/shipengqi/eslint-config-sactive.svg?branch=master
+[travis-url]: https://www.travis-ci.org/shipengqi/eslint-config-sactive
 [license-image]: http://img.shields.io/npm/l/eslint-config-sactive.svg
 [license-url]: ./LICENSE
