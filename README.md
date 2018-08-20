@@ -2,8 +2,9 @@
 
 SActive's ESLint config, based on Standard.
 
-[![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url]
+[![NPM Download][npm-download]][npm-url]
 [![License][license-image]][license-url]
 
 
@@ -42,5 +43,6 @@ Add this to your `.eslintrc` file:
 [npm-url]: https://www.npmjs.com/package/eslint-config-sactive
 [travis-image]: https://travis-ci.org/shipengqi/eslint-config-sactive.svg?branch=master
 [travis-url]: https://www.travis-ci.org/shipengqi/eslint-config-sactive
+[npm-download]: https://img.shields.io/npm/dw/eslint-config-sactive.svg
 [license-image]: http://img.shields.io/npm/l/eslint-config-sactive.svg
 [license-url]: ./LICENSE
