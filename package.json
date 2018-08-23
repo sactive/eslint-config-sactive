@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sactive",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "SActive's ESLint config, based on Standard.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "eslint",
-    "eslintconfig"
+    "eslintconfig",
+    "sactive"
   ],
   "author": "pooky",
   "license": "MIT",
